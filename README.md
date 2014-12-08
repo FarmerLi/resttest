@@ -1,4 +1,4 @@
 rest test
 ===
 
-基于curl的RESTfull 单元测试工具
+鍩轰簬curl鐨凴ESTfull 鍗曞厓娴嬭瘯宸ュ叿
